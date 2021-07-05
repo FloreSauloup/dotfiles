@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = flore.sauloup@audencia.com
+	name = Flore Sauloup
